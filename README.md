@@ -1,2 +1,2 @@
-# Solar-
+# Solar+
 Mod for ARK: Survival Evolved
